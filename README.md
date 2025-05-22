@@ -1,2 +1,3 @@
 # README.md
-Readme de 2do parcial
+## Readme 2do parcial
+[README.md.pdf](https://github.com/user-attachments/files/20379735/README.md.pdf)
